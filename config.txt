@@ -54,3 +54,6 @@ config_hdmi_boost=4
 
 dtparam=i2c_arm=on
 gpu_mem=256
+
+
+
